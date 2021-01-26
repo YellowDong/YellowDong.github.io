@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/01/25/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>投资核心理念</title>
+    <url>/2021/01/26/%E6%8A%95%E8%B5%84%E6%A0%B8%E5%BF%83%E7%90%86%E5%BF%B5/</url>
+    <content><![CDATA[<h2 id="投资核心理念"><a href="#投资核心理念" class="headerlink" title="投资核心理念"></a>投资核心理念</h2><p>股神说过投资很简单，但是并不容易。不容易的原因大概是因为我们每一个人都是普通人，贪婪，恐惧，急躁总是会时不时的跳出来影响着你做的决策。市场先生是疯狂的，时而情绪高涨，时而情绪低落。如何学会面对市场先生的这种波动，是我们在投资过程中要学的第一课。这也是股神过的。投资的第一重要是学会如何面对市场的波动，其次才是如何对企业进行估值。学会面对股市的波动，他已经为你解决了你是赚和亏的核心问题，如何对企业估值，解决的是你能赚多少的问题。</p>
+]]></content>
+      <tags>
+        <tag>投资</tag>
+      </tags>
+  </entry>
+</search>
